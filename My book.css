@@ -1,0 +1,43 @@
+* {
+      margin: 0%;
+        padding: 0%;
+        background: color gray;
+}
+.textbox
+{
+    text-align: center;
+}
+h1
+{
+   font-size: 40px;
+   color: #1877f2;
+}
+h2
+{
+   font-size: 25px;
+   color: lightdark;
+   text-align: center;
+  
+}
+.form
+{
+    
+    width: 7000px;
+    text-align:center; 
+    height:40px;
+    background-color: aqua;
+     
+}
+h4
+{
+ float:none;
+}
+.container
+{
+    background-color: white;
+    width: 1050px;
+    height: 500px;
+    border-radius: 500px;
+    
+}
+
